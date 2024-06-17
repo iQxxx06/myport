@@ -461,7 +461,7 @@ span {
 
 /* Skills Section Styling */
 .skills {
-    min-height: auto;
+    min-height: 70vh;
     padding-bottom: 7rem;
     background: var(--second-bg-color);
 }
